@@ -11,7 +11,7 @@ def assembled_aoh
     DON_G,
     JOELLE_VD,
     {PAT_M},
-    {},
+    {KATE_G},
     {name:  "Bruce Green", occupation: "Fan of Mildred"}
     ]
 end
