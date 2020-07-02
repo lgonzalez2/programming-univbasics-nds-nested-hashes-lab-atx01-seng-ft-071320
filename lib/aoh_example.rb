@@ -10,7 +10,7 @@ def assembled_aoh
   array = [
     DON_G,
     JOELLE_VD,
-    {},
+    {PAT_M},
     {name:  "Kate Gompert", occupation: "None"},
     {name:  "Bruce Green", occupation: "Fan of Mildred"}
     ]
